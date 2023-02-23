@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/E-commerce-project/static/css/main.1d88bb50.css",
+    "main.js": "/E-commerce-project/static/js/main.3f814b5a.js",
+    "static/media/sofa.jpg": "/E-commerce-project/static/media/sofa.7c00cbc2a2b7adca26ad.jpg",
+    "static/media/sedanRojo.jpg": "/E-commerce-project/static/media/sedanRojo.816f56c62424230b80aa.jpg",
+    "static/media/dinotoy.jpg": "/E-commerce-project/static/media/dinotoy.e4dd310e96d74a15cca2.jpg",
+    "index.html": "/E-commerce-project/index.html",
+    "main.1d88bb50.css.map": "/E-commerce-project/static/css/main.1d88bb50.css.map",
+    "main.3f814b5a.js.map": "/E-commerce-project/static/js/main.3f814b5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d88bb50.css",
+    "static/js/main.3f814b5a.js"
+  ]
+}
