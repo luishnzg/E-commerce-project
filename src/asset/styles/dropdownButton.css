@@ -1,0 +1,40 @@
+.dropBtn {
+    border: none;
+    color: white;
+    background: black;
+    cursor: pointer;
+    padding: 5px;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  
+}
+.dropdown-content a {
+    text-decoration: none;
+  color: black;
+  padding: 10px 15px;
+  display: block;
+  /*sin el display block se aplican las otras propiedades de esta clase*/
+  
+}
+
+.dropdown:hover .dropdown-content  {
+    display: block;
+}
+
+.dropdown-content a:hover {
+    text-decoration: underline;
+   background-color: #f1f1f1;
+}
+.dropdown:hover .dropBtn {
+    background-color: rgb(36, 35, 35);
+}
